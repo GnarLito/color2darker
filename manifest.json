@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "color2darker in dark theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(41, 41, 41, 0.51)",
+      "toolbar_text": "rgb(192, 192, 192)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(140, 140, 140)",
+      "toolbar_field": "rgb(41, 41, 41)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(58, 205, 35)",
+      "popup": "rgb(41, 41, 41)",
+      "popup_text": "rgb(140, 140, 140)",
+      "tab_loading": "rgb(58, 205, 35)",
+      "ntp_background": "rgb(18, 18, 18)",
+      "ntp_text": "rgb(170, 170, 170)"
+    }
+  }
+}
