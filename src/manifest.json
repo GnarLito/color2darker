@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "version": "2.1",
   "name": "color2darker in dark theme",
   "theme": {
@@ -29,6 +29,11 @@
       "tab_loading": "rgb(58, 205, 35)",
       "ntp_background": "rgb(18, 18, 18)",
       "ntp_text": "rgb(170, 170, 170)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{0ca61229-1f84-40e8-b5f7-b9b5ec20ab22}"
     }
   }
 }
